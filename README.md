@@ -30,4 +30,6 @@ Batteries
      
 - Execute the 'Generating pickle files.ipynb' notebook, ensuring that the 'path_to_file' variable is set to the repository containing the downloaded files.
 #### 3. Generate Models
-Execute the 'model_generating_MIT.ipynb' notebook to train the E-LSTM and CNN-LSTM models. After completing this step, run the 'combined_model_MIT.ipynb' notebook to integrate the LSTM model with the encoder.
+Execute the 'growing window.ipynb' notebook to train the models. You can choose the model that you want to train and save.
+## Contact
+If you have any issues or questions about this repo, feel free to contact slimane.arbaoui@insa-strasbourg.fr.
